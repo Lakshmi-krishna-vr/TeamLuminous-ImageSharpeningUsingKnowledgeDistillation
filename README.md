@@ -15,8 +15,8 @@ In low-bandwidth or motion-intensive environments (like video calls), image qual
 The project produced strong results in terms of structural similarity and reconstruction quality:
 
 - The *Teacher Model* achieved a Structural Similarity Index Measure (SSIM) of 0.7943 compared to the ground truth images.
-- The *Student Model, although significantly smaller, reached an SSIM of *0.7119* against the ground truth.
-- In terms of Peak Signal-to-Noise Ratio (PSNR), the Teacher Model scored 27.48 dB, while the Student Model scored **25.78 dB*, both evaluated against the ground truth.
+- The Student Model, although significantly smaller, reached an SSIM of *0.7119* against the ground truth.
+- In terms of Peak Signal-to-Noise Ratio (PSNR), the Teacher Model scored 27.48 dB, while the Student Model scored *25.78 dB*, both evaluated against the ground truth.
 - When comparing the Student Model’s output to the Teacher Model’s output, the SSIM was 0.9137, indicating the student effectively mimicked the teacher’s behavior.
 - The PSNR between the *Student Model* and the *Teacher Model* was *34.09 dB*, showing high visual fidelity between the two.
 
