@@ -57,9 +57,8 @@ This project was developed under the *Intel® Unnati Program* by Team Luminous f
 
 ---
 
-## 📬 Contact
+## 📬 Team Luminou
 
-For queries, reach out to:
 - Angela Mary Thomas
 - Fahim Shafeek
 - Lakshmi Krishna V R
