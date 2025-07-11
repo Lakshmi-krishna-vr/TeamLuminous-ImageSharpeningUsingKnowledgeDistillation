@@ -57,7 +57,7 @@ This project was developed under the *Intel® Unnati Program* by Team Luminous f
 
 ---
 
-## 📬 Team Luminou
+## 📬 Team Luminous
 
 - Angela Mary Thomas
 - Fahim Shafeek
