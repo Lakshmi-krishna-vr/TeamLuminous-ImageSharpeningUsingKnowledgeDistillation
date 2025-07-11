@@ -27,18 +27,18 @@ These results confirm the success of knowledge distillation in training a lightw
 
 ## ⚠ Limitations
 
-- ⚙ *SSIM with ground truth* remains lower for the student model due to its reduced capacity.
-- ⏱ *Training time* can be significant even for small models due to high-quality image data.
-- 🎯 *Generalization* may vary for real-world low-quality inputs not seen during training.
+-  *SSIM with ground truth* remains lower for the student model due to its reduced capacity.
+-  *Training time* can be significant even for small models due to high-quality image data.
+-  *Generalization* may vary for real-world low-quality inputs not seen during training.
 
 ---
 
 ## 🔭 Future Scope
 
-- 🚀 Improve student performance via attention mechanisms or residual distillation
-- 📱 Deploy on mobile,embedded systems and edge devices with real-time benchmarks
-- 🧪 Extend to video frame sharpening with temporal consistency
-- 💡 Incorporate perceptual loss or GAN-based enhancements for better visual quality
+-  Improve student performance via attention mechanisms or residual distillation
+-  Deploy on mobile,embedded systems and edge devices with real-time benchmarks
+-  Extend to video frame sharpening with temporal consistency
+-  Incorporate perceptual loss or GAN-based enhancements for better visual quality
 
 ---
 
