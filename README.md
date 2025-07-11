@@ -1,6 +1,6 @@
 # 🧠 Image Sharpening Using Knowledge Distillation
 
-This project presents an efficient, lightweight solution for sharpening blurry images using deep learning and knowledge distillation. Designed for real-time video conferencing and low-bandwidth scenarios, the approach trains a compact student model to mimic a powerful teacher model, delivering fast and high-quality image restoration.
+This project presents an efficient, lightweight solution for sharpening blurry images using deep learning and knowledge distillation. Designed for real time video conferencing and low bandwidth scenarios, the approach trains a compact student model to mimic a powerful teacher model, delivering fast and high quality image restoration.
 
 ---
 
@@ -28,7 +28,7 @@ These results confirm the success of knowledge distillation in training a lightw
 ## ⚠ Limitations
 
 -  *SSIM with ground truth* remains lower for the student model due to its reduced capacity.
--  *Training time* can be significant even for small models due to high-quality image data.
+-  *Training time* can be significant even for small models due to high quality image data.
 -  *Generalization* may vary for real-world low-quality inputs not seen during training.
 
 ---
