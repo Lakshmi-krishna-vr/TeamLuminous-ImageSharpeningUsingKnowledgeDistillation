@@ -49,6 +49,8 @@ In low-bandwidth or motion-intensive environments (like video calls), image qual
 - *SSIM* & *PSNR* for evaluation
 - *DIV2K* dataset for high-resolution image pairs
 - *Knowledge Distillation* using MSE + L1 loss and intermediate feature mimicry
+---
+
 
 ## 🤝 Acknowledgment
 
