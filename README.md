@@ -28,7 +28,6 @@ These results confirm the success of knowledge distillation in training a lightw
 - ⚙ *SSIM with ground truth* remains lower for the student model due to its reduced capacity.
 - ⏱ *Training time* can be significant even for small models due to high-quality image data.
 - 🎯 *Generalization* may vary for real-world low-quality inputs not seen during training.
-- 🔄 Requires *pretrained teacher model*, adding complexity in deployment pipeline.
 
 ---
 
