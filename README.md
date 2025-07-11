@@ -1,12 +1,12 @@
 # 🧠 Image Sharpening Using Knowledge Distillation
 
-This project presents an efficient, lightweight solution for sharpening blurry images using deep learning and *knowledge distillation. Designed for real-time video conferencing and low-bandwidth scenarios, the approach trains a compact **student model* to mimic a powerful *teacher model*, delivering fast and high-quality image restoration.
+This project presents an efficient, lightweight solution for sharpening blurry images using deep learning and knowledge distillation. Designed for real-time video conferencing and low-bandwidth scenarios, the approach trains a compact student model to mimic a powerful teacher model, delivering fast and high-quality image restoration.
 
 ---
 
 ## 🔍 Problem Statement
 
-In low-bandwidth or motion-intensive environments (like video calls), image quality suffers from blur and compression artifacts. Traditional sharpening filters fail to restore real detail. This project uses deep learning and *teacher-student distillation* to perform *intelligent image sharpening* using fewer resources.
+In low-bandwidth or motion-intensive environments (like video calls), image quality suffers from blur and compression artifacts. Traditional sharpening filters fail to restore real detail. This project uses deep learning and teacher-student distillation* to perform intelligent image sharpening using fewer resources.
 
 ---
 
@@ -33,19 +33,19 @@ These results confirm the success of knowledge distillation in training a lightw
 
 ## 🔭 Future Scope
 
-- 🚀 *Improve student performance* via attention mechanisms or residual distillation
-- 📱 Deploy on *mobile and edge devices* with real-time benchmarks
-- 🧪 Extend to *video frame sharpening* with temporal consistency
-- 💡 Incorporate *perceptual loss* or GAN-based enhancements for better visual quality
+- 🚀 Improve student performance via attention mechanisms or residual distillation
+- 📱 Deploy on mobile and edge devices with real-time benchmarks
+- 🧪 Extend to video frame sharpening with temporal consistency
+- 💡 Incorporate perceptual loss or GAN-based enhancements for better visual quality
 
 ---
 
 ## 🛠 Tech Stack
 
-- *PyTorch* for model design and training
-- *SSIM* & *PSNR* for evaluation
-- *DIV2K* dataset for high-resolution image pairs
-- *Knowledge Distillation* using MSE + L1 loss and intermediate feature mimicry
+- PyTorch for model design and training
+- SSIM & PSNR for evaluation
+- DIV2K dataset for high-resolution image pairs
+- Knowledge Distillation using MSE + L1 loss and intermediate feature mimicry
 ---
 
 
