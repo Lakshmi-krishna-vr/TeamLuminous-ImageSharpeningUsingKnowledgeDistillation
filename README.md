@@ -20,7 +20,9 @@ The project produced strong results in terms of structural similarity and recons
 - When comparing the Student Model’s output to the Teacher Model’s output, the SSIM was 0.9137, indicating the student effectively mimicked the teacher’s behavior.
 - The PSNR between the Student Model and the  Teacher Model  was 34.09 dB, showing high visual fidelity between the two.
 
+
 These results confirm the success of knowledge distillation in training a lightweight model that retains high performance with significantly reduced computational cost.
+
 ---
 
 ## ⚠ Limitations
